@@ -1,0 +1,2 @@
+export NERVES_DL_DIR='/Volumes/Nerves/dl'
+export NERVES_ARTIFACTS_DIR='/Volumes/Nerves/artifacts'
